@@ -8,3 +8,10 @@ h1{
 /*     
     padding-left: 90px; */
 }
+
+p{
+    color: wheat;
+    background-color: gray;
+    font-weight: 900;
+    font-size: xx-large;
+}
